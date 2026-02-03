@@ -1,2 +1,2 @@
 # operadores aritmeticos
-Print 
+Print(suma 2+4)
