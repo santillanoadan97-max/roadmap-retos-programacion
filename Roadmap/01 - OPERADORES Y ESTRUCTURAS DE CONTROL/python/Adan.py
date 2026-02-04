@@ -15,9 +15,11 @@
       Print(Menor_o_igual_que 4 <= 4) True # verifica si el numero de la izquierda es menor o igual que el de la derecha
 
 # operadores a nivel bits
-      Print(OperadorAND A = 5 "0101 en binario" B = 3 "0011 en binario" A & B = 1 "0001 en binario")
-      Print
-      Print
-      Print
-      Print
-      Print
+      Print(And A = 5 "0101 en binario" B = 3 "0011 en binario" A & B = 1 "0001 en binario")
+      Print(Or A | B)
+      Print(Xor A ^ B)
+      Print(Not A ~ B)
+      Print(Desplazamiento_a_la_izquierda A << B)
+      Print(desplazzamiento_a_la_derecha A >> B)
+
+#
